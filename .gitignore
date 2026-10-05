@@ -1,0 +1,29 @@
+# Environment variables and secrets
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local vector database
+Data/chroma_db/
+
+# Generated processed data
+Data/processed/
+
+# Raw dataset
+Data/raw/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

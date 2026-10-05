@@ -1,0 +1,13 @@
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+langchain-community
+matplotlib
+prophet
+langchain-groq
+langchain
+langchain-huggingface
+chromadb
+langchain-chroma
+sentence-transformers

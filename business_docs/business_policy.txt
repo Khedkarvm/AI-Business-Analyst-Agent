@@ -1,0 +1,11 @@
+Business Policy
+
+The company sells products across multiple categories.
+
+The health and beauty category is one of the major product categories.
+
+Business performance is evaluated using revenue, order volume,
+average order value, category performance, and revenue trends.
+
+Business decisions should consider both historical performance
+and forecasted future revenue.
